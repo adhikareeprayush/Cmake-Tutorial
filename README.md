@@ -1,4 +1,4 @@
-# Project Title
+# CMAKE TUTORIAL
 
 This project is a comprehensive tutorial on CMake, covering essential concepts and techniques. It aims to provide a step-by-step guide for beginners to learn and understand CMake.
 
